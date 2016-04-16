@@ -1,3 +1,6 @@
+![Deep Learning](http://www.letswatchstartrek.com/wp-content/uploads/2013/02/Picture-189.png)("Deep Learning")
+
+
 # Code samples for "Neural Networks and Deep Learning"
 
 This repository contains code samples for my (forthcoming) book on
